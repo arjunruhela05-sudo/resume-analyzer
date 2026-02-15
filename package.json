@@ -2,10 +2,11 @@
   "name": "abes_feb_26_workshop",
   "version": "1.0.0",
   "description": "",
-  "main": "test.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
-  },
+  "start": "node server.js"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/java2786/workshopt_ABES_feb_26.git"
